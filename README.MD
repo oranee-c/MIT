@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/OUS5012/MediaProject/_apis/build/status/MediaProject?branchName=master)](https://dev.azure.com/OUS5012/MediaProject/_build/latest?definitionId=2&branchName=master)
